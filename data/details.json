@@ -31,7 +31,7 @@
         "id":"5",
         "title":"NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
         "details":"Join the most comprehensive Node.js course on Udemy and learn Node in both a practical as well as theory-based way! This course was updated to also include sections on Deno.js - in addition to more than 30 hours of content on Node.js! Node.js is probably THE most popular and modern server-side programming language you can dive into these days! Node.js developers are in high demand and the language is used for everything from traditional web apps with server-side rendered views over REST APIs all the way up to GraphQL APIs and real-time web services. Not to mention its applications in build workflows for projects of all sizes.",
-        "img":"https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png",
         "price":"100"
     },
     {
