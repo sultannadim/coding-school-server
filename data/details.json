@@ -3,7 +3,7 @@
         "id":"1",
         "title":"Angular - The Complete Guide (2022 Edition)",
         "details":"Join the most comprehensive and bestselling Angular course on Udemy and learn all about this amazing framework from the ground up, in great depth!This course starts from scratch, you neither need to know Angular 1 nor Angular 2! Angular 13 simply is the latest version of Angula 2 you will learn this amazing framework from the ground up in this course! Join the most comprehensive, popular and bestselling Angular course on Udemy and benefit not just from a proven course concept but from a huge community as well! ",
-        "img":"https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png"
     },
     {
         "id":"2",
@@ -33,6 +33,6 @@
         "id":"6",
         "title":"The Complete React Native + Hooks Course",
         "details":"If you're tired of spinning your wheels learning Swift or Android, this is the course for you.Authentication? You will learn it.  Hooks? Included.  Navigation? Of course! This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices.Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry.",
-        "img":"https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png"
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
     }
 ]
