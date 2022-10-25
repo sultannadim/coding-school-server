@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "title":"Angular",
+        "img":"https://masterstudy.stylemixthemes.com/tech/wp-content/uploads/sites/21/2021/12/angular.png"
+    },
+    {
+        "id":"2",
+        "title":"Docker",
+        "img":"https://masterstudy.stylemixthemes.com/tech/wp-content/uploads/sites/21/2021/12/docker.png"
+    },
+    {
+        "id":"3",
+        "title":"Python",
+        "img":"https://masterstudy.stylemixthemes.com/tech/wp-content/uploads/sites/21/2021/12/python.png"
+    },
+    {
+        "id":"4",
+        "title":"Swift",
+        "img":"https://masterstudy.stylemixthemes.com/tech/wp-content/uploads/sites/21/2021/12/swift.png"
+    },
+    {
+        "id":"5",
+        "title":"Node Js",
+        "img":"https://masterstudy.stylemixthemes.com/tech/wp-content/uploads/sites/21/2021/12/nodejs.png"
+    },
+    {
+        "id":"6",
+        "title":"React Native",
+        "img":"https://masterstudy.stylemixthemes.com/tech/wp-content/uploads/sites/21/2021/12/reactjs.png"
+    }
+]
