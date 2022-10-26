@@ -4,41 +4,47 @@
         "title":"Angular - The Complete Guide (2022 Edition)",
         "details":"Join the most comprehensive and bestselling Angular course on Udemy and learn all about this amazing framework from the ground up, in great depth!This course starts from scratch, you neither need to know Angular 1 nor Angular 2! Angular 13 simply is the latest version of Angula 2 you will learn this amazing framework from the ground up in this course! Join the most comprehensive, popular and bestselling Angular course on Udemy and benefit not just from a proven course concept but from a huge community as well! ",
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png",
-        "price":"99"
+        "price":"99",
+        "category":"Angular"
     },
     {
         "id":"2",
         "title":"Docker & Kubernetes: The Practical Guide [2022 Edition]",
         "details":"Join this bestselling Docker & Kubernetes course and learn two of the most important development technologies from the ground up, in great detail! Docker & Kubernetes are amongst the most in-demand technologies and topics you can learn these days. Why? Because they significantly simplify the development and deployment process of both simple and complex software projects. Especially in web development (though not limited to that), Docker can really take you to the next level!",
         "img":"https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo.png",
-        "price":"59"
+        "price":"59",
+        "category":"Docker"
     },
     {
         "id":"3",
         "title":"Complete Python Developer in 2022: Zero to Mastery",
         "details":"Just updated for 2022! It's time to become a modern and complete Python developer! Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies.Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on Udemy (we use the latest version of Python). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Python tutorials anymore.",
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
-        "price":"120"
+        "price":"120",
+        "category":"Python"
     },
     {
         "id":"4",
         "title":"iOS & Swift - The Complete iOS App Development Bootcamp",
         "details":"Welcome to the Complete iOS App Development Bootcamp. With over 39,000 5 star ratings and a 4.8 average my iOS course is the HIGHEST RATED iOS Course in the history of Udemy! At 55+ hours, this iOS 13 course is the most comprehensive iOS development course online! This Swift 5.1 course is based on our in-person app development bootcamp in London, where we've perfected the curriculum over 4 years of in-person teaching.Our complete app development bootcamp teaches you how to code using Swift 5.1 and build beautiful iOS 13 apps for iPhone and iPad. Even if you have ZERO programming experience.I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as an iOS app developer.",
         "img":"https://i.postimg.cc/zBbQ6hLt/swift.png",
-        "price":"110"
+        "price":"110",
+        "category":"Swift"
     },
     {
         "id":"5",
         "title":"NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
         "details":"Join the most comprehensive Node.js course on Udemy and learn Node in both a practical as well as theory-based way! This course was updated to also include sections on Deno.js - in addition to more than 30 hours of content on Node.js! Node.js is probably THE most popular and modern server-side programming language you can dive into these days! Node.js developers are in high demand and the language is used for everything from traditional web apps with server-side rendered views over REST APIs all the way up to GraphQL APIs and real-time web services. Not to mention its applications in build workflows for projects of all sizes.",
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png",
-        "price":"100"
+        "price":"100",
+        "category":"NodeJS"
     },
     {
         "id":"6",
         "title":"The Complete React Native + Hooks Course",
         "details":"If you're tired of spinning your wheels learning Swift or Android, this is the course for you.Authentication? You will learn it.  Hooks? Included.  Navigation? Of course! This course will get you up and running with React Native quickly, and teach you the core knowledge you need to deeply understand and build React components for mobile devices.Both OSX and Windows supported - develop iOS or Android! This course includes content on both v0.62.2 and the legacy v0.30.x, which is widely used in industry.",
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
-        "price":"130"
+        "price":"130",
+        "category":"React Native"
     }
 ]
